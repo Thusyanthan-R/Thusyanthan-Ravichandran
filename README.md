@@ -4,11 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Data Analyst | Lifelong Learner | Tech Enthusiast
 ------------
 
-I am a passionate and detail-oriented technology professional with a background in Information Technology and a strong interest in data analytics and software development. With a Bachelor's degree in Information Technology, I’ve built a diverse career, starting in customer-facing roles. Currently, I am transitioning into the data and technology field, where I am pursuing my passion for working with data. I am enhancing my skills through a Skills Bootcamp in Data Analysis and preparing for my first role as a Data Analyst. I am committed to continuous learning and excited about leveraging data to drive actionable insights and contribute to impactful projects. 🌱 Always exploring new tools and best practices 🤝 Open to collaboration and contributing to meaningful projects 🚀 Eager to transform data into impactful insights and drive innovation through technology
+I am a passionate and detail-oriented technology professional with a background in Information Technology and a strong interest in data analytics and software development. With a Bachelor's degree in Information Technology, I’ve built a diverse career, starting in customer-facing roles. Currently, I am transitioning into the data and technology field, where I am pursuing my passion for working with data. I am enhancing my skills through a Skills Bootcamp in Data Analysis and preparing for my first role as a Data Analyst. I am committed to continuous learning and excited about leveraging data to drive actionable insights and contribute to impactful projects.
+
+🤝 I'm open to collaborating on meaningful data projects, exploring new technologies, and sharing knowledge to solve real-world challenges.
+
+🌱 Always exploring new tools, technologies, and best practices.
+
+🚀 Eager to transform data into impactful insights and drive innovation through technology.
+
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [thusyanthan.r@gmail.com](mailto:thusyanthan.r@gmail.com)
-* 🤝  I'm open to collaborating on Open to collaborating on meaningful data projects, exploring new technologies, and sharing knowledge to solve real-world challenges.
 
 ### Skills
 
